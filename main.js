@@ -18,7 +18,7 @@ function setup(){
 
 function preload(){
     
-    song = loadSound("alert.mp3");
+    song = loadSound("music.mp3");
 
 }
 
